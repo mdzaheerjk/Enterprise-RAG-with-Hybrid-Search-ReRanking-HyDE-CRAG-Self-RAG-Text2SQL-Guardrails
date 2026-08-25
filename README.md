@@ -1,4 +1,5 @@
 # Enterprise-RAG-with-Hybrid-Search-ReRanking-HyDE-CRAG-Self-RAG-Text2SQL-Guardrails
+  Enterprise-grade Retrieval-Augmented Generation (RAG) architecture with hybrid search, reranking, caching, guardrails, and scalable LLM orchestration for intelligent knowledge retrieval.
 
 <h1 align="center">🏢 Enterprise Advanced RAG System</h1>
 
@@ -6,10 +7,6 @@
   <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/genfinlll_xPQ5Ie8.jpeg"
        alt="Enterprise Advanced RAG System Banner"
        width="1000"/>
-</p>
-
-<p align="center">
-  Enterprise-grade Retrieval-Augmented Generation (RAG) architecture with hybrid search, reranking, caching, guardrails, and scalable LLM orchestration for intelligent knowledge retrieval.
 </p>
 
 ---
